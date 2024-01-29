@@ -4,3 +4,6 @@ I have added a hash to create a big and boldened title
 ``` javascript
 https://www.linkedin.com/in/chloe-yap/
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
